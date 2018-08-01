@@ -12,7 +12,7 @@ Surjith S M / @surjithctly
 */
 /*------------------------
 [TABLE OF CONTENTS]
-    
+
 1. GLOBAL STYLES
 2. HEADER
 3. CLIENTS
@@ -35,7 +35,7 @@ Surjith S M / @surjithctly
 20. STATIC VERSION
 21. STICKY PARALLAX
 22. FULL PAGE VERSION
- 
+
 --------------------------*/
 /* ==========================================================================
  * FONTS
@@ -254,10 +254,10 @@ p {
   color: #828c9c !important; }
 
 .space {
-  padding: 100px 0; }
+  padding: 40px 0; }
   @media (max-width: 768px) {
     .space {
-      padding: 70px 0; } }
+      padding: 20px 0; } }
 
 .center-block {
   text-align: center; }
